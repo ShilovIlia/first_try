@@ -2,7 +2,7 @@
 
 ## branch 1
 
-mistake1
+correct1
 
 ## branch 2
 
