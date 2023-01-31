@@ -6,7 +6,7 @@ mistake1
 
 ## branch 2
 
-mistake2
+correct2
 
 ## branch 3
 
